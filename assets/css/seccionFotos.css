@@ -1,0 +1,17 @@
+#imagenes{
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+}
+#imagenes div{
+    padding: 5px;
+}
+#imagenes div img{ 
+    width: 100%;    
+}
+
+#imagenes div span{
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
